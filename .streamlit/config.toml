@@ -1,6 +1,8 @@
 [theme]
-primaryColor="#F63366"
-backgroundColor="#FFFFFF"
-secondaryBackgroundColor="#F0F2F6"
-textColor="#262730"
-font="sans serif"
+primaryColor = "#3498DB"           # Sky blue
+backgroundColor = "#F4F6F6"        # Soft gray
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#1C1C1C"
+font = "'Space Grotesk':https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+baseFontWeight = 300
+baseFontSize = 14
